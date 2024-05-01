@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "role": "staff",
+      "roleId": "",
+      "usernames": []
+    },
+    {
+      "role": "mentor",
+      "roleId": "",
+      "usernames": []
+    },
+    {
+      "role": "advisor",
+      "roleId": "",
+      "usernames": []
+    },
+    {
+      "role": "trainer",
+      "roleId": "",
+      "usernames": []
+    },
+    {
+      "role": "student",
+      "roleId": "",
+      "usernames": []
+    },
+    {
+      "role": "test",
+      "roleId": "",
+      "usernames": []
+    }
+  ]
+}

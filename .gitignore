@@ -1,0 +1,8 @@
+*
+!*.*
+!*/
+.env
+*.log
+!Dockerfile
+!Makefile
+vendor
